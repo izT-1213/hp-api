@@ -1910,7 +1910,7 @@
     "actor": "Sharon Sandhu",
     "alternate_actors": ["Afshan Azad"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/padma-patil.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/padma.png"
   },
   {
     "name": "Sally-Anne Perks",
@@ -2439,7 +2439,7 @@
     "actor": "David Churchyard",
     "alternate_actors": ["Amy Puglia"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/miles-bletchley.png"
   },
   {
     "name": "Terrence Higgs",
@@ -3339,7 +3339,7 @@
     "actor": "Helen Stuart",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/millicent.png"
   },
   {
     "name": "Ernie Macmillan",
@@ -3389,7 +3389,7 @@
     "actor": "Alfred Burke",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/dippet.png"
   },
   {
     "name": "Penelope Clearwater",
@@ -4939,7 +4939,7 @@
     "actor": "Samantha Clinch",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/eloise.png"
   },
   {
     "name": "Alastor Moody",
@@ -5489,7 +5489,7 @@
     "actor": "Lisa Wood ",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/alice-longbottom-png"
+    "image": "http://own-hp-api.herokuapp.com/images/alice-longbottom.png"
   },
   {
     "name": "Violet",
@@ -5814,7 +5814,7 @@
     "actor": "John Atterbury",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/nigellus"
+    "image": "http://own-hp-api.herokuapp.com/images/nigellus.png"
   },
   {
     "name": "Araminta Meliflua Black",
@@ -6514,7 +6514,7 @@
     "actor": "Ryan Nelson",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/michael.png"
   },
   {
     "name": "Zacharias Smith",
@@ -6539,7 +6539,7 @@
     "actor": "Nick Shirm",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/zach.png"
   },
   {
     "name": "Barnabas the Barmy",
@@ -7064,7 +7064,7 @@
     "actor": "Henry Lloyd-Hughes",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/roger.png"
   },
   {
     "name": "Grawp",
@@ -7139,7 +7139,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/eddie-carmichael.png"
   },
   {
     "name": "Daphne Greengrass",
@@ -7164,7 +7164,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/daphne.png"
   },
   {
     "name": "Tofty",
@@ -7589,7 +7589,7 @@
     "actor": "Anna Shaffer",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/romilda.png"
   },
   {
     "name": "Cormac McLaggen",
@@ -7614,7 +7614,7 @@
     "actor": "Freddie Stroma",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/cormac.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/cormac.png"
   },
   {
     "name": "Marcus Belby",
@@ -7639,7 +7639,7 @@
     "actor": "Robert Knox",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/marcus-belby.png"
   },
   {
     "name": "Damocles Belby",
