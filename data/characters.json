@@ -1710,7 +1710,7 @@
     "actor": "Helen Stuart",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/millicent.png"
   },
   {
     "name": "Justin Finch-Fletchley",
@@ -1735,7 +1735,7 @@
     "actor": "Edward Randell",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/justin-finch.png"
   },
   {
     "name": "Seamus Finnegan",
@@ -2464,7 +2464,7 @@
     "actor": "Will Theakston",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/terrance-higgs.png"
+    "image": "http://own-hp-api.herokuapp.com/images/terrence-higgs.png"
   },
   {
     "name": "Fluffy",
@@ -3014,7 +3014,7 @@
     "actor": "Hugh Mitchell",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/colin-creevey.png"
   },
   {
     "name": "Gladys Gudgeon",
@@ -3364,7 +3364,7 @@
     "actor": "Louis Doyle",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/ernie.png"
   },
   {
     "name": "Armando Dippet",
@@ -3414,7 +3414,7 @@
     "actor": "Gemma Padley",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/penelope.png"
   },
   {
     "name": "Cornelius Fudge",
@@ -3717,31 +3717,6 @@
     "image": ""
   },
   {
-    "name": "Derek",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
     "name": "Septima Vector",
     "alternate_names": ["Professor Vector"],
     "species": "human",
@@ -3764,7 +3739,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/septima.png"
   },
   {
     "name": "Cassius Warrington",
@@ -3789,7 +3764,7 @@
     "actor": "Ashley Hull",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/cassius.png"
   },
   {
     "name": "Graham Montague",
@@ -4739,7 +4714,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/dennis-creevey.png"
   },
   {
     "name": "Aurora Sinistra",
@@ -4764,82 +4739,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Stewart Ackerley",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Ravenclaw",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Malcolm Baddock",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Slytherin",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Eleanor Branstone",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "Hufflepuff",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/aurora.png"
   },
   {
     "name": "Owen Cauldwell",
@@ -4864,7 +4764,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/owen.png"
   },
   {
     "name": "Emma Dobbs",
@@ -5089,7 +4989,7 @@
     "actor": "Frances de la Tour",
     "alternate_actors": ["Ian Whyte"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/madame-maxime.png"
   },
   {
     "name": "Igor Karkaroff",
@@ -5164,7 +5064,7 @@
     "actor": "Alex Argenti",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/fawcett.png"
   },
   {
     "name": "Summers",
@@ -5289,7 +5189,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/stebbins.png"
   },
   {
     "name": "Wilhelmina Grubbly-Plank",
@@ -5314,7 +5214,7 @@
     "actor": "Apple Brook",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/wilhelmina.png"
   },
   {
     "name": "Bozo",
@@ -5364,11 +5264,11 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/evan-rosier.png"
   },
   {
     "name": "Wilkes",
-    "alternate_names": [],
+    "alternate_names": ["Rupert Wilkes"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -5389,7 +5289,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/rupert-wilkes.png"
   },
   {
     "name": "Avery",
@@ -5414,7 +5314,7 @@
     "actor": "Richard Rosson",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/avery.png"
   },
   {
     "name": "Antonin Dolohov",
@@ -5439,7 +5339,7 @@
     "actor": "Arben Bajraktaraj",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/antonio-dolohov.png"
   },
   {
     "name": "Travers",
@@ -5546,7 +5446,7 @@
     "alternate_names": [],
     "species": "human",
     "gender": "male",
-    "house": "",
+    "house": "Gryffindor",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -5564,14 +5464,14 @@
     "actor": "James Payton",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/frank-longbottom.png"
   },
   {
     "name": "Alice Longbottom",
-    "alternate_names": [],
+    "alternate_names": ["Alice Fortescue"],
     "species": "human",
     "gender": "female",
-    "house": "",
+    "house": "Gryffindor",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -5589,7 +5489,7 @@
     "actor": "Lisa Wood ",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/alice-longbottom-png"
   },
   {
     "name": "Violet",
@@ -5714,7 +5614,7 @@
     "actor": "Natalia Tena",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/dora.png"
   },
   {
     "name": "Elphias Doge",
@@ -5889,7 +5789,7 @@
     "actor": "Tom Moorcroft",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/regulus-black.png"
   },
   {
     "name": "Phineas Nigelus Black",
@@ -5914,7 +5814,7 @@
     "actor": "John Atterbury",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/nigellus"
   },
   {
     "name": "Araminta Meliflua Black",
@@ -6289,7 +6189,7 @@
     "actor": "Jim McManus",
     "alternate_actors": ["Ciarán Hinds"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/aberforth.png"
   },
   {
     "name": "Dorcas Meadowes",
@@ -6464,7 +6364,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/rose-zeller.png"
   },
   {
     "name": "Patricia Stimpson",
@@ -6564,7 +6464,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/geoffrey.png"
   },
   {
     "name": "Cassandra Trelawney",
@@ -7714,7 +7614,7 @@
     "actor": "Freddie Stroma",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/cormac.jpg"
   },
   {
     "name": "Marcus Belby",
