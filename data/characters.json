@@ -647,7 +647,7 @@
     "actor": "Richard Griffiths",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/vernon_dursley.jpg"
   },
   {
     "name": "Petunia Dursley",
@@ -672,7 +672,7 @@
     "actor": "Fiona Shaw",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/petunia-dursley.jpg"
   },
   {
     "name": "Dudley Dursley",
@@ -697,7 +697,7 @@
     "actor": "Harry Melling",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/dudley.jpg"
   },
   {
     "name": "Lily Potter",
@@ -722,7 +722,7 @@
     "actor": "Geraldine Somerville",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/lily.jpg"
   },
   {
     "name": "James Potter",
@@ -747,7 +747,7 @@
     "actor": "Adrian Rawlins",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/james.jpg"
   },
   {
     "name": "Albus Dumbledore",

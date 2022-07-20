@@ -2,7 +2,7 @@
 
 A JSON-based API for getting information on Harry Potter characters.
 
-Hosted at https://own-own-hp-api.herokuapp.com/
+Hosted at https://own-hp-api.herokuapp.com/
 
 ## Postman Collections
 

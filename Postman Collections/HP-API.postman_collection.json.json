@@ -310,7 +310,7 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": "http://own-own-hp-api.herokuapp.com/api/characters",
+        "url": "http://own-hp-api.herokuapp.com/api/characters",
         "description": "view all characters"
       },
       "response": []
@@ -619,7 +619,7 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": "http://own-own-hp-api.herokuapp.com/api/characters/students",
+        "url": "http://own-hp-api.herokuapp.com/api/characters/students",
         "description": "view all characters who are Hogwarts students during the book series"
       },
       "response": []
@@ -928,7 +928,7 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": "http://own-own-hp-api.herokuapp.com/api/characters/staff",
+        "url": "http://own-hp-api.herokuapp.com/api/characters/staff",
         "description": "view all characters who are Hogwarts staff during the book series"
       },
       "response": []
@@ -1238,7 +1238,7 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://own-own-hp-api.herokuapp.com/api/characters/house/:house",
+          "raw": "http://own-hp-api.herokuapp.com/api/characters/house/:house",
           "protocol": "http",
           "host": ["own-hp-api", "herokuapp", "com"],
           "path": ["api", "characters", "house", ":house"],
