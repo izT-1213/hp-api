@@ -1660,7 +1660,7 @@
     "actor": "Christina Petrou",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/mandy-b.png"
   },
   {
     "name": "Lavender Brown",
@@ -1935,7 +1935,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/sally-anne.png"
   },
   {
     "name": "Lisa Turpin",
@@ -3789,7 +3789,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/montague.png"
   },
   {
     "name": "Peregrine Derrick",
@@ -3839,7 +3839,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/lucian-bole.png"
   },
   {
     "name": "Walden Macnair",
@@ -6367,31 +6367,6 @@
     "image": "http://own-hp-api.herokuapp.com/images/rose-zeller.png"
   },
   {
-    "name": "Patricia Stimpson",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
     "name": "Kenneth Towler",
     "alternate_names": [],
     "species": "human",
@@ -6414,7 +6389,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/kenneth.png"
   },
   {
     "name": "Vicky Frobisher",
@@ -6689,7 +6664,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/sloper.png"
   },
   {
     "name": "Everard",
@@ -6714,7 +6689,7 @@
     "actor": "Sam Beazley",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/everard.png"
   },
   {
     "name": "Dilys Derwent",
@@ -6939,7 +6914,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/summerby.png"
   },
   {
     "name": "Marietta Edgecombe",
@@ -7921,7 +7896,7 @@
     "alternate_names": ["Tom Riddle Senior"],
     "species": "human",
     "gender": "male",
-    "house": "",
+    "house": "Slytherin",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": false,
@@ -7939,7 +7914,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/tom-riddle.png"
   },
   {
     "name": "Demelza Robins",
@@ -7964,7 +7939,7 @@
     "actor": "Katy Huxley-Golden",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/demelza.png"
   },
   {
     "name": "Jimmy Peakes",
@@ -8014,32 +7989,7 @@
     "actor": "Ashley Virgil",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Melinda Bobbin",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/ritchie.png"
   },
   {
     "name": "Leanne",
@@ -8064,7 +8014,7 @@
     "actor": "Isabella Laughland",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/leanne.png"
   },
   {
     "name": "Caractacus Burke",
@@ -8239,7 +8189,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/vaisey.png"
   },
   {
     "name": "Harper",
@@ -8439,7 +8389,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/cadwallader.png"
   },
   {
     "name": "Galatea Merrythought",
@@ -8464,7 +8414,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/Merrythought.jpg"
   },
   {
     "name": "Hepzibah Smith",
@@ -8614,7 +8564,7 @@
     "actor": "Ralph Ineson",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/amycus.png"
   },
   {
     "name": "Alecto Carrow",
@@ -8639,7 +8589,7 @@
     "actor": "Suzie Toase",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/alecto.png"
   },
   {
     "name": "Gibbon",
@@ -8739,7 +8689,7 @@
     "actor": "Carolyn Pickles",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/charity.png"
   },
   {
     "name": "Percival Dumbledore",
@@ -8964,7 +8914,7 @@
     "actor": "Rhys Ifans",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/xenophilius.png"
   },
   {
     "name": "Muriel",
@@ -9839,7 +9789,7 @@
     "actor": "Arthur Bowen",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/albus-potter.png"
   },
   {
     "name": "Rose Weasley",
@@ -9864,7 +9814,7 @@
     "actor": "Helena Barlow",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/rose-weasley.png"
   },
   {
     "name": "Hugo Weasley",
@@ -9889,7 +9839,7 @@
     "actor": "Ryan Turner",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/hugo-weasley.png"
   },
   {
     "name": "Scorpius Malfoy",
@@ -9914,7 +9864,7 @@
     "actor": "Bertie Gilbert",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/scorpius.png"
   },
   {
     "name": "Victoire Weasley",
