@@ -272,7 +272,7 @@
     "actor": "Evanna Lynch",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/luna.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/luna.png"
   },
   {
     "name": "Ginny Weasley",
@@ -1084,7 +1084,7 @@
     "alternate_names": ["Newton Artemis Fido Scamander"],
     "species": "human",
     "gender": "male",
-    "house": "",
+    "house": "Hufflepuff",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -1102,7 +1102,7 @@
     "actor": "Eddie Redmayne",
     "alternate_actors": ["Joshua Shea", "Callum Turner"],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/newt.png"
   },
   {
     "name": "Quentin Trimble",
@@ -1360,7 +1360,7 @@
     "actor": "Julie Walters",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/molly-weasley.png"
   },
   {
     "name": "Percy Weasley",
@@ -1485,7 +1485,7 @@
     "actor": "Richard Fish",
     "alternate_actors": ["Domhnall Gleeson"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/bill-weasley.jpeg"
   },
   {
     "name": "Charlie Weasley",
@@ -1685,7 +1685,7 @@
     "actor": "Kathleen Cauley",
     "alternate_actors": ["Jennifer Smith", "Jessie Cave"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/lavender-brown.png"
   },
   {
     "name": "Millicent Bulstrode",
@@ -1760,7 +1760,7 @@
     "actor": "Devon Murray",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/seamus.png"
   },
   {
     "name": "Morag MacDougal",
@@ -1860,7 +1860,7 @@
     "actor": "Genevieve Gaunt",
     "alternate_actors": ["Lauren Shotton", "Scarlett Byrne"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/pansy-parkinson.jpg"
   },
   {
     "name": "Parvati Patil",
@@ -1885,7 +1885,7 @@
     "actor": "Sitara Shah",
     "alternate_actors": ["Shefali Chowdhury"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/parvati.png"
   },
   {
     "name": "Padma Patil",
@@ -1910,7 +1910,7 @@
     "actor": "Sharon Sandhu",
     "alternate_actors": ["Afshan Azad"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/padma-patil.jpg"
   },
   {
     "name": "Sally-Anne Perks",
@@ -1960,7 +1960,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/lisa-turpin.png"
   },
   {
     "name": "Blaise Zabini",
@@ -1985,7 +1985,7 @@
     "actor": "Louis Cordice",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/blaise-zabini.png"
   },
   {
     "name": "Nearly Headless Nick",
@@ -2014,7 +2014,7 @@
     "actor": "John Cleese",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/nearly.png"
   },
   {
     "name": "Bloody Baron",
@@ -2239,7 +2239,7 @@
     "actor": "Sean Biggerstaff",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/oliver-wood.png"
   },
   {
     "name": "Gregory the Smarmy",
@@ -2314,7 +2314,7 @@
     "actor": "Danielle Tabor",
     "alternate_actors": ["Tiana Benjamin"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/angelina.png"
   },
   {
     "name": "Marcus Flint",
@@ -2339,7 +2339,7 @@
     "actor": "Jamie Yeates",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/marcus-flint.png"
   },
   {
     "name": "Alicia Spinet",
@@ -2364,7 +2364,7 @@
     "actor": "Leilah Sutherland",
     "alternate_actors": ["Rochelle Douglas"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/alicia-spinet.png"
   },
   {
     "name": "Katie Bell",
@@ -2389,7 +2389,7 @@
     "actor": "Emily Dale",
     "alternate_actors": ["Georgina Leonidas"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/katie-bell.png"
   },
   {
     "name": "Adrian Pucey",
@@ -2414,7 +2414,7 @@
     "actor": "Scot Fearn",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/adrien-pucey.jpg"
   },
   {
     "name": "Miles Bletchley",
@@ -2464,7 +2464,7 @@
     "actor": "Will Theakston",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/terrance-higgs.png"
   },
   {
     "name": "Fluffy",
