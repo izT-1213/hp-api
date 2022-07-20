@@ -772,7 +772,7 @@
     "actor": "Richard Harris",
     "alternate_actors": ["Michael Gambon"],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/Albus-Dumbledore.jpg"
   },
   {
     "name": "Madam Pomfrey",
@@ -797,7 +797,7 @@
     "actor": "Gemma Jones",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/madam-pomfrey.png"
   },
   {
     "name": "Mrs Figg",
@@ -822,7 +822,7 @@
     "actor": "Kathryn Hunter",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/figg.png"
   },
   {
     "name": "Marge Dursley",
@@ -852,57 +852,7 @@
     "actor": "Pam Ferris",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Yvonne",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Piers Polkiss",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Jason Boyd",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/marge-dursley.png"
   },
   {
     "name": "Dennis",
@@ -1435,7 +1385,7 @@
     "actor": "Chris Rankin",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/percy.png"
   },
   {
     "name": "Fred Weasley",
@@ -1460,7 +1410,7 @@
     "actor": "James Phelps",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/fred.png"
   },
   {
     "name": "George Weasley",
@@ -1485,7 +1435,7 @@
     "actor": "Oliver Phelps",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/george.png"
   },
   {
     "name": "Lee Jordan",
@@ -1510,7 +1460,7 @@
     "actor": "Luke Youngblood",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/lee-jordan.png"
   },
   {
     "name": "Bill Weasley",
@@ -1635,7 +1585,7 @@
     "actor": "Charlotte Skeoch",
     "alternate_actors": ["Louisa Warren"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/hannah-abbott.png"
   },
   {
     "name": "Susan Bones",
@@ -1660,7 +1610,7 @@
     "actor": "Eleanor Columbus",
     "alternate_actors": ["Emma Jayne-Corboz"],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/susan-bones.png"
   },
   {
     "name": "Terry Boot",
