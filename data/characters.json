@@ -360,7 +360,7 @@
     "actor": "David Thewlis",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/lupin.jpg",
+    "image": "http://own-hp-api.herokuapp.com/images/lupin.png",
     "description": "Professor Remus John Lupin, also known as Moony, was a half-blood wizard and the only son of Lyall and Hope Lupin (née Howell). He was attacked by werewolf Fenrir Greyback when he was a child, a result of Greyback's revenge against Lyall, leaving Remus afflicted with lycanthropy for life.He attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978 and was sorted into Gryffindor House. During his school years he was one of the Marauders, best friends with Sirius Black, James Potter, and Peter Pettigrew. Together, they created the Marauder's Map."
   },
   {
@@ -792,7 +792,7 @@
     "actor": "Richard Harris",
     "alternate_actors": ["Michael Gambon"],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/Albus-Dumbledore.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/Albus-Dumbledore.png"
   },
   {
     "name": "Madam Pomfrey",
@@ -1659,7 +1659,7 @@
     "actor": "Terence Bayler",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/bloody-baron.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/bloody-baron.png"
   },
   {
     "name": "Fat Lady",
@@ -1934,7 +1934,7 @@
     "actor": "Scot Fearn",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/adrien-pucey.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/adrien-pucey.png"
   },
   {
     "name": "Miles Bletchley",
@@ -3109,7 +3109,8 @@
     "actor": "Emma Thompson",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/trelawney.png",
+    "description": "Professor Sybill Patricia Trelawney was a half-bloodwitch and professor of Divination at Hogwarts School of Witchcraft and Wizardry. She is the great-great-granddaughter of the celebrated Cassandra Trelawney,who was also a Seer."
   },
   {
     "name": "Buckbeak",
@@ -4434,7 +4435,7 @@
     "actor": "Brendan Gleeson",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/alastor.png"
   },
   {
     "name": "Madame Maxime",
