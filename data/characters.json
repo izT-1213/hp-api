@@ -210,7 +210,7 @@
   {
     "name": "Rubeus Hagrid",
     "alternate_names": [],
-    "species": "half-giant",
+    "species": "Half-giant",
     "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "06-12-1928",
@@ -231,7 +231,7 @@
     "alternate_actors": [],
     "alive": true,
     "image": "https://own-hp-api.herokuapp.com/images/hagrid.png",
-    "description": "Professor Rubeus Hagrid was an English half-giant wizard, son of Mr Hagrid and the giantess Fridwulfa, and elder half-brother of the giant Grawp. Hagrid stood at eleven feet, six inches tall."
+    "description": "Professor Rubeus Hagrid was an English Half-giant wizard, son of Mr Hagrid and the giantess Fridwulfa, and elder half-brother of the giant Grawp. Hagrid stood at eleven feet, six inches tall."
   },
   {
     "name": "Neville Longbottom",
@@ -340,7 +340,7 @@
   {
     "name": "Remus Lupin",
     "alternate_names": ["Professor Lupin", "Moony", "Remus John Lupin"],
-    "species": "werewolf",
+    "species": "Werewolf",
     "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "10-03-1960",
@@ -361,7 +361,7 @@
     "alternate_actors": [],
     "alive": false,
     "image": "https://own-hp-api.herokuapp.com/images/lupin.png",
-    "description": "Professor Remus John Lupin, also known as Moony, was a half-blood wizard and the only son of Lyall and Hope Lupin (née Howell). He was attacked by werewolf Fenrir Greyback when he was a child, a result of Greyback's revenge against Lyall, leaving Remus afflicted with lycanthropy for life.He attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978 and was sorted into Gryffindor House. During his school years he was one of the Marauders, best friends with Sirius Black, James Potter, and Peter Pettigrew. Together, they created the Marauder's Map."
+    "description": "Professor Remus John Lupin, also known as Moony, was a half-blood wizard and the only son of Lyall and Hope Lupin (née Howell). He was attacked by Werewolf Fenrir Greyback when he was a child, a result of Greyback's revenge against Lyall, leaving Remus afflicted with lycanthropy for life.He attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978 and was sorted into Gryffindor House. During his school years he was one of the Marauders, best friends with Sirius Black, James Potter, and Peter Pettigrew. Together, they created the Marauder's Map."
   },
   {
     "name": "Arthur Weasley",
@@ -567,7 +567,8 @@
     "actor": "Jamie Waylett",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/crabbe.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/crabbe.jpg",
+    "description": "Vincent Crabbe was a pure-blood wizard, and the son of Death Eater Crabbe Snr. He came from a line of Dark Wizards and Death Eaters, with his father and possibly grandfather before him."
   },
   {
     "name": "Gregory Goyle",
@@ -592,7 +593,8 @@
     "actor": "Josh Herdman",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/goyle.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/goyle.jpg",
+    "description": "Gregory Goyle was a pure-blood wizard in the same year as Harry Potter at Hogwarts School of Witchcraft and Wizardry. He was sorted into Slytherin House. Goyle was the son of a Death Eater and his wife. It is unknown if he was a Death Eater as well."
   },
   {
     "name": "Mrs Norris",
@@ -617,7 +619,8 @@
     "actor": "Maxime, Alanis and Tommy the cats",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/norris.JPG"
+    "image": "https://own-hp-api.herokuapp.com/images/norris.JPG",
+    "description": "Mrs Norris was the pet cat of Argus Filch, the caretaker of Hogwarts School of Witchcraft and Wizardry. Mrs Norris was described as having an unusually strong connection with her master, alerting him to any students misbehaving inside the school castle."
   },
   {
     "name": "Argus Filch",
@@ -642,7 +645,8 @@
     "actor": "David Bradley",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/filch.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/filch.jpg",
+    "description": "Argus Filch was a Squib and the caretaker of Hogwarts School of Witchcraft and Wizardry since around 1973. Filch usually wandered around the school corridors with his cat Mrs Norris, trying to catch students breaking the school rules and complaining about Peeves the Poltergeist."
   },
   {
     "name": "Vernon Dursley",
@@ -792,7 +796,8 @@
     "actor": "Richard Harris",
     "alternate_actors": ["Michael Gambon"],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/Albus-Dumbledore.png"
+    "image": "https://own-hp-api.herokuapp.com/images/Albus-Dumbledore.png",
+    "description": "Professor Albus Percival Wulfric Brian Dumbledore, S. of Mag.Q. was an English half-blood wizard. He was the Defence Against the Dark Arts Professor, later the Transfiguration Professor, and later the Headmaster of Hogwarts School of Witchcraft and Wizardry. He also served as Supreme Mugwump of the International Confederation of Wizards and Chief Warlock of the Wizengamot. A Muggle-supporting wizard, though the complete opposite in his earlier years, he was considered to have been the greatest wizard of modern times, perhaps of all time."
   },
   {
     "name": "Madam Pomfrey",
@@ -817,7 +822,8 @@
     "actor": "Gemma Jones",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/madam-pomfrey.png"
+    "image": "https://own-hp-api.herokuapp.com/images/madam-pomfrey.png",
+    "description": "Madam Poppy Pomfrey was a British or Irish witch and the matron at Hogwarts School of Witchcraft and Wizardry. She was a very competent Healer, having been in the position for, at least, the last quarter of the 20th century."
   },
   {
     "name": "Mrs Figg",
@@ -897,7 +903,8 @@
     "actor": "Eddie Redmayne",
     "alternate_actors": ["Joshua Shea", "Callum Turner"],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/newt.png"
+    "image": "https://own-hp-api.herokuapp.com/images/newt.png",
+    "description": "Newton Artemis Fido 'Newt' Scamander, was an English wizard, famed Magizoologist and the author of Fantastic Beasts and Where to Find Them. Early in life, Scamander developed an interest in magical creatures, influenced by his mother's breeding of Hippogriffs."
   },
   {
     "name": "Quirinus Quirrel",
@@ -922,7 +929,8 @@
     "actor": "Ian Hart",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/quirinus.png"
+    "image": "https://own-hp-api.herokuapp.com/images/quirinus.png",
+    "description": "Professor Quirinus Quirrell was a half-blood wizard who attended Hogwarts School of Witchcraft and Wizardry and was Sorted into Ravenclaw House. He was the Muggle Studies professor at Hogwarts, though he later became the Defence Against the Dark Arts professor during the 1991–1992 school year."
   },
   {
     "name": "Hedwig",
@@ -1005,7 +1013,8 @@
     "actor": "Chris Rankin",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/percy.png"
+    "image": "https://own-hp-api.herokuapp.com/images/percy.png",
+    "description": "Percy Ignatius 'Perce' Weasley was an English pure-blood wizard, the third child of Arthur and Molly Weasley (née Prewett). He was the younger brother of Bill and Charlie, the older brother of the late Fred Weasley, George, Ron and Ginny. He attended Hogwarts School of Witchcraft and Wizardry from 1987-1994, and was both a prefect and Head Boy."
   },
   {
     "name": "Fred Weasley",
@@ -1030,7 +1039,8 @@
     "actor": "James Phelps",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/fred.png"
+    "image": "https://own-hp-api.herokuapp.com/images/fred.png",
+    "description": "Fred Weasley I was an English pure-blood wizard, was the fourth son and the middle child, the most daring and dominant among the twins of Arthur Weasley and Molly Weasley (née Prewett), younger brother to Bill, Charlie and Percy, older twin brother and best friend to George Weasley, and older brother of Ron and Ginny Potter (née Weasley). Fred's first few years were marked by the height of the First Wizarding War and when Lord Voldemort fell for the first time."
   },
   {
     "name": "George Weasley",
@@ -1055,7 +1065,8 @@
     "actor": "Oliver Phelps",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/george.png"
+    "image": "https://own-hp-api.herokuapp.com/images/george.png",
+    "description": "George Weasley was an English pure-blood wizard, the fifth son and the less dominant among the twins of Arthur Weasley and Molly Weasley (née Prewett), younger brother of Bill, Charlie and Percy, younger twin brother and best friend of the late Fred Weasley, and older brother to Ron and Ginny. George's first few years were marked by the height of the First Wizarding War and Lord Voldemort's first fall."
   },
   {
     "name": "Lee Jordan",
@@ -1080,7 +1091,8 @@
     "actor": "Luke Youngblood",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/lee-jordan.png"
+    "image": "https://own-hp-api.herokuapp.com/images/lee-jordan.png",
+    "description": "Lee Jordan was a British wizard, son of Mr and Mrs Jordan, and a Gryffindor student at Hogwarts School of Witchcraft and Wizardry from 1989 to 1996 (a couple of years before Harry). During his years at Hogwarts, he became best friends with Fred and George Weasley and liked doing pranks with them. He often helped them work on their inventions and tricks, some of which were eventually sold at Weasleys' Wizard Wheezes. Lee also served as a Quidditch Commentator during his Hogwarts years and was a member of Dumbledore's Army, an organisation taught and led by Harry Potter."
   },
   {
     "name": "Bill Weasley",
@@ -1155,7 +1167,8 @@
     "actor": "Simon Fisher-Becker",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/fat-friar.png"
+    "image": "https://own-hp-api.herokuapp.com/images/fat-friar.png",
+    "description": "The Fat Friar was a wizard, who attended Hogwarts School of Witchcraft and Wizardry in his youth, and was sorted into Hufflepuff. He was a jolly man and very forgiving. He devoted his life to religion and, after his death, returned to the school as the resident ghost of Hufflepuff House."
   },
   {
     "name": "Peeves",
@@ -1205,7 +1218,8 @@
     "actor": "Charlotte Skeoch",
     "alternate_actors": ["Louisa Warren"],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/hannah-abbott.png"
+    "image": "https://own-hp-api.herokuapp.com/images/hannah-abbott.png",
+    "description": "Hannah Abbott was a half-blood witch and a member of the Abbott family. In September 1991, she started attending Hogwarts School of Witchcraft and Wizardry and was Sorted into Hufflepuff House. Hannah was in the same year as the famous Harry Potter."
   },
   {
     "name": "Susan Bones",
@@ -1280,7 +1294,8 @@
     "actor": "Christina Petrou",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/mandy-b.png"
+    "image": "https://own-hp-api.herokuapp.com/images/mandy-b.png",
+    "description": "Mandy Brocklehurst was a half-blood witch who began attending Hogwarts School of Witchcraft and Wizardry in 1991. She was in the same year as Harry Potter and was Sorted into Ravenclaw House."
   },
   {
     "name": "Lavender Brown",
@@ -1505,7 +1520,8 @@
     "actor": "Sitara Shah",
     "alternate_actors": ["Shefali Chowdhury"],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/parvati.png"
+    "image": "https://own-hp-api.herokuapp.com/images/parvati.png",
+    "description": "Parvati Patil (b. 1979/1980), was a witch of Indian heritage, daughter of Mr and Mrs Patil, and the identical twin sister of Padma. She was sorted into Gryffindor at Hogwarts School of Witchcraft and Wizardry, but her sister Padma was sorted into Ravenclaw."
   },
   {
     "name": "Padma Patil",
@@ -1530,7 +1546,8 @@
     "actor": "Sharon Sandhu",
     "alternate_actors": ["Afshan Azad"],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/padma.png"
+    "image": "https://own-hp-api.herokuapp.com/images/padma.png",
+    "description": "Padma Patil was a witch of Indian heritage who was in the same year as the famous Harry Potter at Hogwarts School of Witchcraft and Wizardry. She was the identical twin sister of Parvati Patil. Padma was sorted into Ravenclaw house and became a prefect in her fifth year. She was also a member of Dumbledore's Army, an organisation taught and led by Harry Potter."
   },
   {
     "name": "Sally-Anne Perks",
@@ -1784,7 +1801,8 @@
     "actor": "Zoë Wanamaker",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/madam-hooch.png"
+    "image": "https://own-hp-api.herokuapp.com/images/madam-hooch.png",
+    "description": "Madam Rolanda Hooch was a witch who worked as the Flying instructor, Quidditch referee, and coach at Hogwarts School of Witchcraft and Wizardry. She learnt to fly on her own Silver Arrow broomstick sometime before or during the Great War and returned to Hogwarts, which was her childhood school, for a job. While on staff at Hogwarts, Hooch worked under Headmasters Albus Dumbledore, Dolores Umbridge, and Minerva McGonagall."
   },
   {
     "name": "Oliver Wood",
@@ -4440,7 +4458,7 @@
   {
     "name": "Madame Maxime",
     "alternate_names": ["Olympe Maxime"],
-    "species": "half-giant",
+    "species": "Half-giant",
     "gender": "Female",
     "house": "",
     "dateOfBirth": "",
@@ -5085,7 +5103,8 @@
     "actor": "Natalia Tena",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/dora.png"
+    "image": "https://own-hp-api.herokuapp.com/images/dora.png",
+    "description": "Nymphadora 'Dora' Lupin (née Tonks), more commonly known as Tonks, was a British half-blood witch and a Metamorphmagus. She was the only child of Ted and Andromeda Tonks (née Black). Tonks attended Hogwarts School of Witchcraft and Wizardry from 1984 to 1991 and was Sorted into Hufflepuff House. She was in the same year at Hogwarts as Gryffindor Charlie Weasley."
   },
   {
     "name": "Elphias Doge",
@@ -6840,7 +6859,7 @@
   {
     "name": "Fenrir Greyback",
     "alternate_names": [],
-    "species": "werewolf",
+    "species": "Werewolf",
     "gender": "Male",
     "house": "",
     "dateOfBirth": "",
@@ -9260,7 +9279,8 @@
     "actor": "Arthur Bowen",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/albus-potter.png"
+    "image": "https://own-hp-api.herokuapp.com/images/albus-potter.png",
+    "description": "Albus Severus 'Al' Potter was an English half-blood wizard, the second son of Harry and Ginevra Potter (née Weasley) and the godson of Neville Longbottom. He was born two years after his older brother James Sirius and two years before his younger sister Lily Luna."
   },
   {
     "name": "Rose Weasley",
@@ -9335,7 +9355,8 @@
     "actor": "Bertie Gilbert",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/scorpius.png"
+    "image": "https://own-hp-api.herokuapp.com/images/scorpius.png",
+    "description": "Scorpius Hyperion Malfoy was a British pure-blood wizard and the only child and son of Draco and Astoria Malfoy (née Greengrass). He attended Hogwarts School of Witchcraft and Wizardry from 2017 and onwards and was sorted into Slytherin House. He was a classmate of Rose Granger-Weasley and Albus Potter, and he made a strong bond with the latter. He, however, struggled with a mistaken belief held by many against him that he was secretly the son of Lord Voldemort and not Draco Malfoy."
   },
   {
     "name": "Victoire Weasley",
