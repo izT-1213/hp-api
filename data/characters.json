@@ -22,11 +22,12 @@
     "actor": "Daniel Radcliffe",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/harry.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/harry.jpg",
+    "description": "Harry James Potter was an English half-blood wizard, and one of the most famous wizards of modern times. The only child and son of James and Lily Potter, Harry's birth was overshadowed by a prophecy, naming either himself or Neville Longbottom as the one with the power to vanquish Lord Voldemort, the most powerful and feared Dark Wizard in the world. After half of the prophecy was reported to Voldemort, courtesy of Severus Snape, Harry was chosen as the target due to his many similarities with the Dark Lord. In turn, this caused the Potter family to go into hiding."
   },
   {
     "name": "Hermione Granger",
-    "alternate_names": [],
+    "alternate_names": ["Hermione Jean Granger"],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -47,7 +48,8 @@
     "actor": "Emma Watson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/hermione.jpeg"
+    "image": "http://own-hp-api.herokuapp.com/images/hermione.jpeg",
+    "description": "Hermione Jean Granger was an English Muggle-born witch born to Mr and Mrs Granger. At the age of eleven, she learned about her magical nature and was accepted into Hogwarts School of Witchcraft and Wizardry. Hermione began attending Hogwarts in 1991 and was Sorted into Gryffindor House. She possessed a brilliant academic mind and proved to be a gifted student in almost every subject that she studied, to the point where she was nearly made a Ravenclaw by the Sorting Hat."
   },
   {
     "name": "Ron Weasley",
@@ -72,11 +74,12 @@
     "actor": "Rupert Grint",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/ron.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/ron.jpg",
+    "description": "Ronald Bilius 'Ron' Weasley was an English pure-blood wizard, the sixth and youngest son of Arthur and Molly Weasley (née Prewett). He was also the younger brother of Bill, Charlie, Percy, Fred, George, and the elder brother of Ginny. Ron and his siblings lived at the The Burrow, on the outskirts of Ottery St Catchpole, Devon."
   },
   {
     "name": "Draco Malfoy",
-    "alternate_names": [],
+    "alternate_names": ["Draco Lucius Malfoy"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -97,7 +100,8 @@
     "actor": "Tom Felton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/draco.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/draco.jpg",
+    "description": "Draco Lucius Malfoy was a British pure-blood wizard and the only son of Lucius and Narcissa Malfoy (née Black). The son of a Death Eater, Draco was raised to strongly believe in the importance of blood purity. He looked down on half-bloods and Muggle-borns."
   },
   {
     "name": "Minerva McGonagall",
@@ -122,7 +126,8 @@
     "actor": "Dame Maggie Smith",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/mcgonagall.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/mcgonagall.jpg",
+    "description": "Professor Minerva McGonagall, was a Scottish half-blood witch, the only daughter of Muggle Robert McGonagall and witch Isobel Ross. She also was the older sister of Malcolm and Robert Jnr. Minerva attended Hogwarts School of Witchcraft and Wizardry and was Sorted into Gryffindor House, but it took the Sorting Hat five and a half minutes to decide if she was Gryffindor or Ravenclaw, which made her a Hatstall. During her seventh year, she was appointed Head Girl."
   },
   {
     "name": "Cedric Diggory",
@@ -147,7 +152,8 @@
     "actor": "Robert Pattinson",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/cedric.png"
+    "image": "http://own-hp-api.herokuapp.com/images/cedric.png",
+    "description": "Cedric Diggory  was a British wizard who was the son of Amos Diggory and his unnamed wife. He started attending Hogwarts School of Witchcraft and Wizardry in 1989, and was sorted into the Hufflepuff House. During his time at school, he was a prefect and captained the Hufflepuff Quidditch team, playing as Seeker. In his sixth year Cedric put his name forward to compete in the Triwizard Tournament."
   },
   {
     "name": "Cho Chang",
@@ -172,7 +178,8 @@
     "actor": "Katie Leung",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/cho.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/cho.jpg",
+    "description": "Cho Chang was a witch who attended Hogwarts School of Witchcraft and Wizardry from 1990-1997 and was sorted into Ravenclaw House. She was a Seeker for the Ravenclaw Quidditch team and a popular student. She was also one year ahead of the famous Harry Potter."
   },
   {
     "name": "Severus Snape",
@@ -197,7 +204,8 @@
     "actor": "Alan Rickman",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/snape.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/snape.jpg",
+    "description": "Professor Severus Snape was an English half-blood wizard serving as Potions Master (1981-1996), Head of Slytherin House (1981-1997), Defence Against the Dark Arts professor (1996-1997), and Headmaster (1997-1998) of the Hogwarts School of Witchcraft and Wizardry as well as a member of the Order of the Phoenix and a Death Eater. His double life played an extremely important role in both of the Wizarding Wars against Voldemort."
   },
   {
     "name": "Rubeus Hagrid",
@@ -222,7 +230,8 @@
     "actor": "Robbie Coltrane",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/hagrid.png"
+    "image": "http://own-hp-api.herokuapp.com/images/hagrid.png",
+    "description": "Professor Rubeus Hagrid was an English half-giant wizard, son of Mr Hagrid and the giantess Fridwulfa, and elder half-brother of the giant Grawp. Hagrid stood at eleven feet, six inches tall."
   },
   {
     "name": "Neville Longbottom",
@@ -247,7 +256,8 @@
     "actor": "Matthew Lewis",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/neville.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/neville.jpg",
+    "description": "Professor Neville Longbottom was a British pure-blood wizard, the only child and son of Frank and Alice Longbottom. Neville's parents were well-respected Aurors and members of the original Order of the Phoenix until they were tortured into insanity by Bellatrix Lestrange and three other Death Eaters with the Cruciatus Curse when he was about sixteen months old. They were placed in the Janus Thickey Ward at St Mungo's Hospital for Magical Maladies and Injuries, leaving Neville to be raised by his grandmother, Augusta Longbottom."
   },
   {
     "name": "Luna Lovegood",
@@ -272,7 +282,8 @@
     "actor": "Evanna Lynch",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/luna.png"
+    "image": "http://own-hp-api.herokuapp.com/images/luna.png",
+    "description": "Luna Scamander (née Lovegood) was a witch and the only child and daughter of Xenophilius and Pandora Lovegood. Her mother accidentally died while experimenting with spells when Luna was nine and thus Luna was raised by her father, editor of the magazine The Quibbler, in a rook-like house near the village of Ottery St Catchpole in Devon."
   },
   {
     "name": "Ginny Weasley",
@@ -297,7 +308,8 @@
     "actor": "Bonnie Wright",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/ginny.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/ginny.jpg",
+    "description": "Ginevra Molly 'Ginny' Potter (née Weasley) occasionally known as Gin by Harry Potter, was an English pure-blood witch, the youngest daughter of Arthur and Molly Weasley (née Prewett), and the youngest sister of Bill, Charlie, Percy, the late Fred, George and Ron. She was the first female to be born into the Weasley line for several generations. She and her older brothers grew up in The Burrow on the outskirts of Ottery St Catchpole in Devon."
   },
   {
     "name": "Sirius Black",
@@ -322,7 +334,8 @@
     "actor": "Gary Oldman",
     "alternate_actors": ["James Walters", "Rohan Gotobed"],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/sirius.JPG"
+    "image": "http://own-hp-api.herokuapp.com/images/sirius.JPG",
+    "description": "Sirius Black III, also known as Padfoot or Snuffles (in his Animagus form), was an English pure-blood wizard, the older son of Orion and Walburga Black, the brother of Regulus Black, and godfather of Harry Potter. Although he was the heir of the House of Black, Sirius disagreed with his family's belief in blood purity and defied tradition when he was Sorted into Gryffindor House instead of Slytherin at Hogwarts School of Witchcraft and Wizardry, which he attended from 1971 to 1978. As the rest of his family had been in Slytherin, he was the odd one out."
   },
   {
     "name": "Remus Lupin",
@@ -347,7 +360,8 @@
     "actor": "David Thewlis",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/lupin.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/lupin.jpg",
+    "description": "Professor Remus John Lupin, also known as Moony, was a half-blood wizard and the only son of Lyall and Hope Lupin (née Howell). He was attacked by werewolf Fenrir Greyback when he was a child, a result of Greyback's revenge against Lyall, leaving Remus afflicted with lycanthropy for life.He attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978 and was sorted into Gryffindor House. During his school years he was one of the Marauders, best friends with Sirius Black, James Potter, and Peter Pettigrew. Together, they created the Marauder's Map."
   },
   {
     "name": "Arthur Weasley",
@@ -372,7 +386,8 @@
     "actor": "Mark Williams",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/arthur.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/arthur.jpg",
+    "description": "Arthur Weasley was an English pure-blood wizard in the employ of the Ministry of Magic, as well as a member of the second Order of the Phoenix. He was a staunch believer in the equality of all magical and Muggle folk and was the head of the Weasley family."
   },
   {
     "name": "Bellatrix Lestrange",
@@ -397,11 +412,12 @@
     "actor": "Helena Bonham Carter",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/bellatrix.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/bellatrix.jpg",
+    "description": "Bellatrix 'Bella' Lestrange (née Black) was a British witch, the eldest daughter of Cygnus and Druella Black, cousin of Regulus and Sirius Black, and the elder sister of Andromeda Tonks and Narcissa Malfoy. She was a member of the House of Black, an old wizarding family and one of the Sacred Twenty-Eight. Bellatrix started her education at Hogwarts School of Witchcraft and Wizardry in the early sixties (either 1962 or 1963), and was Sorted into Slytherin House."
   },
   {
     "name": "Lord Voldemort",
-    "alternate_names": ["Tom Marvolo Riddle"],
+    "alternate_names": ["Tom Marvolo Riddle", "He-Who-Must-Not-Be-Named"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -422,7 +438,8 @@
     "actor": "Ralph Fiennes",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/voldemort.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/voldemort.jpg",
+    "description": "'Tom Marvolo Riddle', later known as Lord Voldemort or, alternatively as You-Know-Who, the Dark Lord, or He-Who-Must-Not-Be-Named was an English half-blood wizard considered to have been the most powerful and dangerous Dark Wizard of all time. He was amongst the greatest wizards to have ever lived, often considered more powerful or equal to Albus Dumbledore.The only child and son of Tom and Merope Riddle (née Gaunt), Riddle was raised in the Muggle-run Wool's Orphanage after his father abandoned his new family on the streets of London when the influence of her magic was lifted, and his mother died moments after giving birth to and naming him after his father and maternal grandfather, Marvolo Gaunt."
   },
   {
     "name": "Horace Slughorn",
@@ -447,7 +464,8 @@
     "actor": "Jim Broadbent",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/slughorn.JPG"
+    "image": "http://own-hp-api.herokuapp.com/images/slughorn.JPG",
+    "description": "Professor Horace Eugene Flaccus Slughorn was a pure-blood or half-bloodwizard. He attended Hogwarts School of Witchcraft and Wizardry as a member of Slytherin before returning in 1931 as Potions Master. He also served as Head of Slytherin House, before retiring in 1981 due to a fear that Albus Dumbledore would discover that he had told Tom Riddle about Horcruxes, though Dumbledore himself did not feel that Slughorn had done anything wrong."
   },
   {
     "name": "Kingsley Shacklebolt",
@@ -497,7 +515,8 @@
     "actor": "Imelda Staunton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/umbridge.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/umbridge.jpg",
+    "description": "Dolores Jane Umbridge was a half-blood witch and a British Ministry of Magic bureaucrat who served as Senior Undersecretary to the Minister for Magic under Ministers Cornelius Fudge, Rufus Scrimgeour, and Pius Thicknesse."
   },
   {
     "name": "Lucius Malfoy",
@@ -522,7 +541,8 @@
     "actor": "Jason Isaacs",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/lucius.jpg"
+    "image": "http://own-hp-api.herokuapp.com/images/lucius.jpg",
+    "description": "Lucius Malfoy was a British pure-blood wizard, and son of Abraxas Malfoy, husband of Narcissa Black, the father of Draco Malfoy and the grandfather of Scorpius Malfoy. As well as a member of the Malfoy family. Lucius was educated at Hogwarts, where he was made a prefect in Slytherin House. As an adult, Lucius was an aristocratic wizard and patriarch of the Malfoy family, believing strongly in notions of blood purity and the superiority of pure-blood wizards. He joined the Death Eaters, who shared his views on blood purity, and participated in the First Wizarding War, becoming Voldemort's second-in-command. However, he was replaced by Bellatrix Lestrange in the Second Wizarding War."
   },
   {
     "name": "Vincent Crabbe",
@@ -855,231 +875,6 @@
     "image": "http://own-hp-api.herokuapp.com/images/marge-dursley.png"
   },
   {
-    "name": "Dennis",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Christopher Rithin",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Malcolm",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Richard Macklin",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Gordon",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Miranda Gaushawk",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Bathilda Bagshot",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Adalbert Waffling",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Emeric Switch",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Phyllida Spore",
-    "alternate_names": ["Dame Phyllida Spore"],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Arsenius Jigger",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
     "name": "Newt Scamander",
     "alternate_names": ["Newton Artemis Fido Scamander"],
     "species": "human",
@@ -1105,81 +900,6 @@
     "image": "http://own-hp-api.herokuapp.com/images/newt.png"
   },
   {
-    "name": "Quentin Trimble",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Tom",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Derek Deadman",
-    "alternate_actors": ["Jim Tavare"],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Doris Crockford",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Nina Young",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
     "name": "Quirinus Quirrel",
     "alternate_names": ["Professor Quirrel"],
     "species": "human",
@@ -1202,107 +922,7 @@
     "actor": "Ian Hart",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Griphook",
-    "alternate_names": [],
-    "species": "goblin",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Verne Troyer",
-    "alternate_actors": ["Warwick Davis"],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Madam Malkin",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Vindictus Viridian",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Garrick Ollivander",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "pale, silvery",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "John Hurt",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/quirinus.png"
   },
   {
     "name": "Hedwig",
@@ -1510,7 +1130,7 @@
     "actor": "Alex Crockford",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/charlie-weasley.png"
   },
   {
     "name": "Fat Friar",
@@ -1535,7 +1155,7 @@
     "actor": "Simon Fisher-Becker",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/fat-friar.png"
   },
   {
     "name": "Peeves",
@@ -2039,7 +1659,7 @@
     "actor": "Terence Bayler",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/bloody-baron.jpg"
   },
   {
     "name": "Fat Lady",
@@ -2089,7 +1709,7 @@
     "actor": "Miriam Margolyes",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/pomona.png"
   },
   {
     "name": "Cuthbert Binns",
@@ -2114,57 +1734,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Emeric the Evil",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Uric the Oddball",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/binns.png"
   },
   {
     "name": "Filius Flitwick",
@@ -2189,7 +1759,7 @@
     "actor": "Warwick Davis",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/flit.png"
   },
   {
     "name": "Madam Hooch",
@@ -2214,14 +1784,14 @@
     "actor": "Zoë Wanamaker",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/madam-hooch.png"
   },
   {
     "name": "Oliver Wood",
     "alternate_names": [],
     "species": "human",
     "gender": "male",
-    "house": "",
+    "house": "Gryffindor",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -2240,56 +1810,6 @@
     "alternate_actors": [],
     "alive": true,
     "image": "http://own-hp-api.herokuapp.com/images/oliver-wood.png"
-  },
-  {
-    "name": "Gregory the Smarmy",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "name": "Wizard Baruffio",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
   },
   {
     "name": "Angelina Johnson",
@@ -2467,56 +1987,6 @@
     "image": "http://own-hp-api.herokuapp.com/images/terrence-higgs.png"
   },
   {
-    "name": "Fluffy",
-    "alternate_names": [],
-    "species": "three-headed dog",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Nicolas Flamel",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Brontis Jodorowsky",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
     "name": "Gellert Grindelwald",
     "alternate_names": [],
     "species": "human",
@@ -2639,7 +2109,7 @@
     "actor": "Ray Fearon",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/firenze.png"
   },
   {
     "name": "Elfrick the Eager",
@@ -2839,7 +2309,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/celestina.png"
   },
   {
     "name": "Gilderoy Lockhart",
@@ -2864,7 +2334,7 @@
     "actor": "Kenneth Branagh",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/gilderoy.png"
   },
   {
     "name": "Mundungus Fletcher",
@@ -3189,7 +2659,7 @@
     "actor": "Shirley Henderson",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/moaning-myrtle.jpg"
   },
   {
     "name": "Godric Gryffindor",
@@ -3314,7 +2784,7 @@
     "actor": "Sally Mortemore",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/pince.png"
   },
   {
     "name": "Milicent Bullstroude",
@@ -9739,7 +9209,7 @@
     "actor": "Daphne de Beistegui",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/lily-luna.png"
   },
   {
     "name": "James Potter",
@@ -9764,7 +9234,7 @@
     "actor": "Will Dunn",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "http://own-hp-api.herokuapp.com/images/james-sirius-potter.png"
   },
   {
     "name": "Albus Severus Potter",
