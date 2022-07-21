@@ -22,7 +22,7 @@
     "actor": "Daniel Radcliffe",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/harry.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/harry.jpg",
     "description": "Harry James Potter was an English half-blood wizard, and one of the most famous wizards of modern times. The only child and son of James and Lily Potter, Harry's birth was overshadowed by a prophecy, naming either himself or Neville Longbottom as the one with the power to vanquish Lord Voldemort, the most powerful and feared Dark Wizard in the world. After half of the prophecy was reported to Voldemort, courtesy of Severus Snape, Harry was chosen as the target due to his many similarities with the Dark Lord. In turn, this caused the Potter family to go into hiding."
   },
   {
@@ -48,7 +48,7 @@
     "actor": "Emma Watson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/hermione.jpeg",
+    "image": "https://own-hp-api.herokuapp.com/images/hermione.jpeg",
     "description": "Hermione Jean Granger was an English Muggle-born witch born to Mr and Mrs Granger. At the age of eleven, she learned about her magical nature and was accepted into Hogwarts School of Witchcraft and Wizardry. Hermione began attending Hogwarts in 1991 and was Sorted into Gryffindor House. She possessed a brilliant academic mind and proved to be a gifted student in almost every subject that she studied, to the point where she was nearly made a Ravenclaw by the Sorting Hat."
   },
   {
@@ -74,7 +74,7 @@
     "actor": "Rupert Grint",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/ron.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/ron.jpg",
     "description": "Ronald Bilius 'Ron' Weasley was an English pure-blood wizard, the sixth and youngest son of Arthur and Molly Weasley (née Prewett). He was also the younger brother of Bill, Charlie, Percy, Fred, George, and the elder brother of Ginny. Ron and his siblings lived at the The Burrow, on the outskirts of Ottery St Catchpole, Devon."
   },
   {
@@ -100,7 +100,7 @@
     "actor": "Tom Felton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/draco.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/draco.jpg",
     "description": "Draco Lucius Malfoy was a British pure-blood wizard and the only son of Lucius and Narcissa Malfoy (née Black). The son of a Death Eater, Draco was raised to strongly believe in the importance of blood purity. He looked down on half-bloods and Muggle-borns."
   },
   {
@@ -126,7 +126,7 @@
     "actor": "Dame Maggie Smith",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/mcgonagall.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/mcgonagall.jpg",
     "description": "Professor Minerva McGonagall, was a Scottish half-blood witch, the only daughter of Muggle Robert McGonagall and witch Isobel Ross. She also was the older sister of Malcolm and Robert Jnr. Minerva attended Hogwarts School of Witchcraft and Wizardry and was Sorted into Gryffindor House, but it took the Sorting Hat five and a half minutes to decide if she was Gryffindor or Ravenclaw, which made her a Hatstall. During her seventh year, she was appointed Head Girl."
   },
   {
@@ -152,7 +152,7 @@
     "actor": "Robert Pattinson",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/cedric.png",
+    "image": "https://own-hp-api.herokuapp.com/images/cedric.png",
     "description": "Cedric Diggory  was a British wizard who was the son of Amos Diggory and his unnamed wife. He started attending Hogwarts School of Witchcraft and Wizardry in 1989, and was sorted into the Hufflepuff House. During his time at school, he was a prefect and captained the Hufflepuff Quidditch team, playing as Seeker. In his sixth year Cedric put his name forward to compete in the Triwizard Tournament."
   },
   {
@@ -178,7 +178,7 @@
     "actor": "Katie Leung",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/cho.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/cho.jpg",
     "description": "Cho Chang was a witch who attended Hogwarts School of Witchcraft and Wizardry from 1990-1997 and was sorted into Ravenclaw House. She was a Seeker for the Ravenclaw Quidditch team and a popular student. She was also one year ahead of the famous Harry Potter."
   },
   {
@@ -204,7 +204,7 @@
     "actor": "Alan Rickman",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/snape.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/snape.jpg",
     "description": "Professor Severus Snape was an English half-blood wizard serving as Potions Master (1981-1996), Head of Slytherin House (1981-1997), Defence Against the Dark Arts professor (1996-1997), and Headmaster (1997-1998) of the Hogwarts School of Witchcraft and Wizardry as well as a member of the Order of the Phoenix and a Death Eater. His double life played an extremely important role in both of the Wizarding Wars against Voldemort."
   },
   {
@@ -230,7 +230,7 @@
     "actor": "Robbie Coltrane",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/hagrid.png",
+    "image": "https://own-hp-api.herokuapp.com/images/hagrid.png",
     "description": "Professor Rubeus Hagrid was an English half-giant wizard, son of Mr Hagrid and the giantess Fridwulfa, and elder half-brother of the giant Grawp. Hagrid stood at eleven feet, six inches tall."
   },
   {
@@ -256,7 +256,7 @@
     "actor": "Matthew Lewis",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/neville.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/neville.jpg",
     "description": "Professor Neville Longbottom was a British pure-blood wizard, the only child and son of Frank and Alice Longbottom. Neville's parents were well-respected Aurors and members of the original Order of the Phoenix until they were tortured into insanity by Bellatrix Lestrange and three other Death Eaters with the Cruciatus Curse when he was about sixteen months old. They were placed in the Janus Thickey Ward at St Mungo's Hospital for Magical Maladies and Injuries, leaving Neville to be raised by his grandmother, Augusta Longbottom."
   },
   {
@@ -282,7 +282,7 @@
     "actor": "Evanna Lynch",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/luna.png",
+    "image": "https://own-hp-api.herokuapp.com/images/luna.png",
     "description": "Luna Scamander (née Lovegood) was a witch and the only child and daughter of Xenophilius and Pandora Lovegood. Her mother accidentally died while experimenting with spells when Luna was nine and thus Luna was raised by her father, editor of the magazine The Quibbler, in a rook-like house near the village of Ottery St Catchpole in Devon."
   },
   {
@@ -308,7 +308,7 @@
     "actor": "Bonnie Wright",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/ginny.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/ginny.jpg",
     "description": "Ginevra Molly 'Ginny' Potter (née Weasley) occasionally known as Gin by Harry Potter, was an English pure-blood witch, the youngest daughter of Arthur and Molly Weasley (née Prewett), and the youngest sister of Bill, Charlie, Percy, the late Fred, George and Ron. She was the first Female to be born into the Weasley line for several generations. She and her older brothers grew up in The Burrow on the outskirts of Ottery St Catchpole in Devon."
   },
   {
@@ -334,7 +334,7 @@
     "actor": "Gary Oldman",
     "alternate_actors": ["James Walters", "Rohan Gotobed"],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/sirius.JPG",
+    "image": "https://own-hp-api.herokuapp.com/images/sirius.JPG",
     "description": "Sirius Black III, also known as Padfoot or Snuffles (in his Animagus form), was an English pure-blood wizard, the older son of Orion and Walburga Black, the brother of Regulus Black, and godfather of Harry Potter. Although he was the heir of the House of Black, Sirius disagreed with his family's belief in blood purity and defied tradition when he was Sorted into Gryffindor House instead of Slytherin at Hogwarts School of Witchcraft and Wizardry, which he attended from 1971 to 1978. As the rest of his family had been in Slytherin, he was the odd one out."
   },
   {
@@ -360,7 +360,7 @@
     "actor": "David Thewlis",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/lupin.png",
+    "image": "https://own-hp-api.herokuapp.com/images/lupin.png",
     "description": "Professor Remus John Lupin, also known as Moony, was a half-blood wizard and the only son of Lyall and Hope Lupin (née Howell). He was attacked by werewolf Fenrir Greyback when he was a child, a result of Greyback's revenge against Lyall, leaving Remus afflicted with lycanthropy for life.He attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978 and was sorted into Gryffindor House. During his school years he was one of the Marauders, best friends with Sirius Black, James Potter, and Peter Pettigrew. Together, they created the Marauder's Map."
   },
   {
@@ -386,7 +386,7 @@
     "actor": "Mark Williams",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/arthur.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/arthur.jpg",
     "description": "Arthur Weasley was an English pure-blood wizard in the employ of the Ministry of Magic, as well as a member of the second Order of the Phoenix. He was a staunch believer in the equality of all magical and Muggle folk and was the head of the Weasley family."
   },
   {
@@ -412,7 +412,7 @@
     "actor": "Helena Bonham Carter",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/bellatrix.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/bellatrix.jpg",
     "description": "Bellatrix 'Bella' Lestrange (née Black) was a British witch, the eldest daughter of Cygnus and Druella Black, cousin of Regulus and Sirius Black, and the elder sister of Andromeda Tonks and Narcissa Malfoy. She was a member of the House of Black, an old wizarding family and one of the Sacred Twenty-Eight. Bellatrix started her education at Hogwarts School of Witchcraft and Wizardry in the early sixties (either 1962 or 1963), and was Sorted into Slytherin House."
   },
   {
@@ -438,7 +438,7 @@
     "actor": "Ralph Fiennes",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/voldemort.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/voldemort.jpg",
     "description": "'Tom Marvolo Riddle', later known as Lord Voldemort or, alternatively as You-Know-Who, the Dark Lord, or He-Who-Must-Not-Be-Named was an English half-blood wizard considered to have been the most powerful and dangerous Dark Wizard of all time. He was amongst the greatest wizards to have ever lived, often considered more powerful or equal to Albus Dumbledore.The only child and son of Tom and Merope Riddle (née Gaunt), Riddle was raised in the Muggle-run Wool's Orphanage after his father abandoned his new family on the streets of London when the influence of her magic was lifted, and his mother died moments after giving birth to and naming him after his father and maternal grandfather, Marvolo Gaunt."
   },
   {
@@ -464,7 +464,7 @@
     "actor": "Jim Broadbent",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/slughorn.JPG",
+    "image": "https://own-hp-api.herokuapp.com/images/slughorn.JPG",
     "description": "Professor Horace Eugene Flaccus Slughorn was a pure-blood or half-bloodwizard. He attended Hogwarts School of Witchcraft and Wizardry as a member of Slytherin before returning in 1931 as Potions Master. He also served as Head of Slytherin House, before retiring in 1981 due to a fear that Albus Dumbledore would discover that he had told Tom Riddle about Horcruxes, though Dumbledore himself did not feel that Slughorn had done anything wrong."
   },
   {
@@ -490,7 +490,7 @@
     "actor": "George Harris",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/kingsley.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/kingsley.jpg"
   },
   {
     "name": "Dolores Umbridge",
@@ -515,7 +515,7 @@
     "actor": "Imelda Staunton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/umbridge.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/umbridge.jpg",
     "description": "Dolores Jane Umbridge was a half-blood witch and a British Ministry of Magic bureaucrat who served as Senior Undersecretary to the Minister for Magic under Ministers Cornelius Fudge, Rufus Scrimgeour, and Pius Thicknesse."
   },
   {
@@ -541,7 +541,7 @@
     "actor": "Jason Isaacs",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/lucius.jpg",
+    "image": "https://own-hp-api.herokuapp.com/images/lucius.jpg",
     "description": "Lucius Malfoy was a British pure-blood wizard, and son of Abraxas Malfoy, husband of Narcissa Black, the father of Draco Malfoy and the grandfather of Scorpius Malfoy. As well as a member of the Malfoy family. Lucius was educated at Hogwarts, where he was made a prefect in Slytherin House. As an adult, Lucius was an aristocratic wizard and patriarch of the Malfoy family, believing strongly in notions of blood purity and the superiority of pure-blood wizards. He joined the Death Eaters, who shared his views on blood purity, and participated in the First Wizarding War, becoming Voldemort's second-in-command. However, he was replaced by Bellatrix Lestrange in the Second Wizarding War."
   },
   {
@@ -567,7 +567,7 @@
     "actor": "Jamie Waylett",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/crabbe.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/crabbe.jpg"
   },
   {
     "name": "Gregory Goyle",
@@ -592,12 +592,12 @@
     "actor": "Josh Herdman",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/goyle.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/goyle.jpg"
   },
   {
     "name": "Mrs Norris",
     "alternate_names": [],
-    "species": "cat",
+    "species": "Cat",
     "gender": "Female",
     "house": "",
     "dateOfBirth": "",
@@ -617,7 +617,7 @@
     "actor": "Maxime, Alanis and Tommy the cats",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/norris.JPG"
+    "image": "https://own-hp-api.herokuapp.com/images/norris.JPG"
   },
   {
     "name": "Argus Filch",
@@ -642,7 +642,7 @@
     "actor": "David Bradley",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/filch.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/filch.jpg"
   },
   {
     "name": "Vernon Dursley",
@@ -667,7 +667,7 @@
     "actor": "Richard Griffiths",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/vernon_dursley.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/vernon_dursley.jpg"
   },
   {
     "name": "Petunia Dursley",
@@ -692,7 +692,7 @@
     "actor": "Fiona Shaw",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/petunia-dursley.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/petunia-dursley.jpg"
   },
   {
     "name": "Dudley Dursley",
@@ -717,7 +717,7 @@
     "actor": "Harry Melling",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/dudley.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/dudley.jpg"
   },
   {
     "name": "Lily Potter",
@@ -742,7 +742,7 @@
     "actor": "Geraldine Somerville",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/lily.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/lily.jpg"
   },
   {
     "name": "James Potter",
@@ -767,7 +767,7 @@
     "actor": "Adrian Rawlins",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/james.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/james.jpg"
   },
   {
     "name": "Albus Dumbledore",
@@ -792,7 +792,7 @@
     "actor": "Richard Harris",
     "alternate_actors": ["Michael Gambon"],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/Albus-Dumbledore.png"
+    "image": "https://own-hp-api.herokuapp.com/images/Albus-Dumbledore.png"
   },
   {
     "name": "Madam Pomfrey",
@@ -817,7 +817,7 @@
     "actor": "Gemma Jones",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/madam-pomfrey.png"
+    "image": "https://own-hp-api.herokuapp.com/images/madam-pomfrey.png"
   },
   {
     "name": "Mrs Figg",
@@ -842,7 +842,7 @@
     "actor": "Kathryn Hunter",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/figg.png"
+    "image": "https://own-hp-api.herokuapp.com/images/figg.png"
   },
   {
     "name": "Marge Dursley",
@@ -872,7 +872,7 @@
     "actor": "Pam Ferris",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/marge-dursley.png"
+    "image": "https://own-hp-api.herokuapp.com/images/marge-dursley.png"
   },
   {
     "name": "Newt Scamander",
@@ -897,7 +897,7 @@
     "actor": "Eddie Redmayne",
     "alternate_actors": ["Joshua Shea", "Callum Turner"],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/newt.png"
+    "image": "https://own-hp-api.herokuapp.com/images/newt.png"
   },
   {
     "name": "Quirinus Quirrel",
@@ -922,7 +922,7 @@
     "actor": "Ian Hart",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/quirinus.png"
+    "image": "https://own-hp-api.herokuapp.com/images/quirinus.png"
   },
   {
     "name": "Hedwig",
@@ -980,7 +980,7 @@
     "actor": "Julie Walters",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/molly-weasley.png"
+    "image": "https://own-hp-api.herokuapp.com/images/molly-weasley.png"
   },
   {
     "name": "Percy Weasley",
@@ -1005,7 +1005,7 @@
     "actor": "Chris Rankin",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/percy.png"
+    "image": "https://own-hp-api.herokuapp.com/images/percy.png"
   },
   {
     "name": "Fred Weasley",
@@ -1030,7 +1030,7 @@
     "actor": "James Phelps",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/fred.png"
+    "image": "https://own-hp-api.herokuapp.com/images/fred.png"
   },
   {
     "name": "George Weasley",
@@ -1055,7 +1055,7 @@
     "actor": "Oliver Phelps",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/george.png"
+    "image": "https://own-hp-api.herokuapp.com/images/george.png"
   },
   {
     "name": "Lee Jordan",
@@ -1080,7 +1080,7 @@
     "actor": "Luke Youngblood",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/lee-jordan.png"
+    "image": "https://own-hp-api.herokuapp.com/images/lee-jordan.png"
   },
   {
     "name": "Bill Weasley",
@@ -1105,7 +1105,7 @@
     "actor": "Richard Fish",
     "alternate_actors": ["Domhnall Gleeson"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/bill-weasley.jpeg"
+    "image": "https://own-hp-api.herokuapp.com/images/bill-weasley.jpeg"
   },
   {
     "name": "Charlie Weasley",
@@ -1130,12 +1130,12 @@
     "actor": "Alex Crockford",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/charlie-weasley.png"
+    "image": "https://own-hp-api.herokuapp.com/images/charlie-weasley.png"
   },
   {
     "name": "Fat Friar",
     "alternate_names": [],
-    "species": "ghost",
+    "species": "Ghost",
     "gender": "Male",
     "house": "Hufflepuff",
     "dateOfBirth": "",
@@ -1155,12 +1155,12 @@
     "actor": "Simon Fisher-Becker",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/fat-friar.png"
+    "image": "https://own-hp-api.herokuapp.com/images/fat-friar.png"
   },
   {
     "name": "Peeves",
     "alternate_names": [],
-    "species": "poltergeist",
+    "species": "Poltergeist",
     "gender": "Male",
     "house": "",
     "dateOfBirth": "",
@@ -1205,7 +1205,7 @@
     "actor": "Charlotte Skeoch",
     "alternate_actors": ["Louisa Warren"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/hannah-abbott.png"
+    "image": "https://own-hp-api.herokuapp.com/images/hannah-abbott.png"
   },
   {
     "name": "Susan Bones",
@@ -1230,7 +1230,7 @@
     "actor": "Eleanor Columbus",
     "alternate_actors": ["Emma Jayne-Corboz"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/susan-bones.png"
+    "image": "https://own-hp-api.herokuapp.com/images/susan-bones.png"
   },
   {
     "name": "Terry Boot",
@@ -1280,7 +1280,7 @@
     "actor": "Christina Petrou",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/mandy-b.png"
+    "image": "https://own-hp-api.herokuapp.com/images/mandy-b.png"
   },
   {
     "name": "Lavender Brown",
@@ -1305,7 +1305,7 @@
     "actor": "Kathleen Cauley",
     "alternate_actors": ["Jennifer Smith", "Jessie Cave"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/lavender-brown.png"
+    "image": "https://own-hp-api.herokuapp.com/images/lavender-brown.png"
   },
   {
     "name": "Millicent Bulstrode",
@@ -1330,7 +1330,7 @@
     "actor": "Helen Stuart",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/millicent.png"
+    "image": "https://own-hp-api.herokuapp.com/images/millicent.png"
   },
   {
     "name": "Justin Finch-Fletchley",
@@ -1355,7 +1355,7 @@
     "actor": "Edward Randell",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/justin-finch.png"
+    "image": "https://own-hp-api.herokuapp.com/images/justin-finch.png"
   },
   {
     "name": "Seamus Finnegan",
@@ -1380,7 +1380,7 @@
     "actor": "Devon Murray",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/seamus.png"
+    "image": "https://own-hp-api.herokuapp.com/images/seamus.png"
   },
   {
     "name": "Morag MacDougal",
@@ -1480,7 +1480,7 @@
     "actor": "Genevieve Gaunt",
     "alternate_actors": ["Lauren Shotton", "Scarlett Byrne"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/pansy-parkinson.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/pansy-parkinson.jpg"
   },
   {
     "name": "Parvati Patil",
@@ -1505,7 +1505,7 @@
     "actor": "Sitara Shah",
     "alternate_actors": ["Shefali Chowdhury"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/parvati.png"
+    "image": "https://own-hp-api.herokuapp.com/images/parvati.png"
   },
   {
     "name": "Padma Patil",
@@ -1530,7 +1530,7 @@
     "actor": "Sharon Sandhu",
     "alternate_actors": ["Afshan Azad"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/padma.png"
+    "image": "https://own-hp-api.herokuapp.com/images/padma.png"
   },
   {
     "name": "Sally-Anne Perks",
@@ -1555,7 +1555,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/sally-anne.png"
+    "image": "https://own-hp-api.herokuapp.com/images/sally-anne.png"
   },
   {
     "name": "Lisa Turpin",
@@ -1580,7 +1580,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/lisa-turpin.png"
+    "image": "https://own-hp-api.herokuapp.com/images/lisa-turpin.png"
   },
   {
     "name": "Blaise Zabini",
@@ -1605,7 +1605,7 @@
     "actor": "Louis Cordice",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/blaise-zabini.png"
+    "image": "https://own-hp-api.herokuapp.com/images/blaise-zabini.png"
   },
   {
     "name": "Nearly Headless Nick",
@@ -1614,7 +1614,7 @@
       "Sir Nicholas",
       "Nick"
     ],
-    "species": "ghost",
+    "species": "Ghost",
     "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "",
@@ -1634,12 +1634,12 @@
     "actor": "John Cleese",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/nearly.png"
+    "image": "https://own-hp-api.herokuapp.com/images/nearly.png"
   },
   {
     "name": "Bloody Baron",
     "alternate_names": [],
-    "species": "ghost",
+    "species": "Ghost",
     "gender": "Male",
     "house": "Slytherin",
     "dateOfBirth": "",
@@ -1659,7 +1659,7 @@
     "actor": "Terence Bayler",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/bloody-baron.png"
+    "image": "https://own-hp-api.herokuapp.com/images/bloody-baron.png"
   },
   {
     "name": "Fat Lady",
@@ -1709,12 +1709,12 @@
     "actor": "Miriam Margolyes",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/pomona.png"
+    "image": "https://own-hp-api.herokuapp.com/images/pomona.png"
   },
   {
     "name": "Cuthbert Binns",
     "alternate_names": ["Professor Binns"],
-    "species": "ghost",
+    "species": "Ghost",
     "gender": "Male",
     "house": "",
     "dateOfBirth": "",
@@ -1734,7 +1734,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/binns.png"
+    "image": "https://own-hp-api.herokuapp.com/images/binns.png"
   },
   {
     "name": "Filius Flitwick",
@@ -1759,7 +1759,7 @@
     "actor": "Warwick Davis",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/flit.png"
+    "image": "https://own-hp-api.herokuapp.com/images/flit.png"
   },
   {
     "name": "Madam Hooch",
@@ -1784,7 +1784,7 @@
     "actor": "Zoë Wanamaker",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/madam-hooch.png"
+    "image": "https://own-hp-api.herokuapp.com/images/madam-hooch.png"
   },
   {
     "name": "Oliver Wood",
@@ -1809,7 +1809,7 @@
     "actor": "Sean Biggerstaff",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/oliver-wood.png"
+    "image": "https://own-hp-api.herokuapp.com/images/oliver-wood.png"
   },
   {
     "name": "Angelina Johnson",
@@ -1834,7 +1834,7 @@
     "actor": "Danielle Tabor",
     "alternate_actors": ["Tiana Benjamin"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/angelina.png"
+    "image": "https://own-hp-api.herokuapp.com/images/angelina.png"
   },
   {
     "name": "Marcus Flint",
@@ -1859,7 +1859,7 @@
     "actor": "Jamie Yeates",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/marcus-flint.png"
+    "image": "https://own-hp-api.herokuapp.com/images/marcus-flint.png"
   },
   {
     "name": "Alicia Spinet",
@@ -1884,7 +1884,7 @@
     "actor": "Leilah Sutherland",
     "alternate_actors": ["Rochelle Douglas"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/alicia-spinet.png"
+    "image": "https://own-hp-api.herokuapp.com/images/alicia-spinet.png"
   },
   {
     "name": "Katie Bell",
@@ -1909,7 +1909,7 @@
     "actor": "Emily Dale",
     "alternate_actors": ["Georgina Leonidas"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/katie-bell.png"
+    "image": "https://own-hp-api.herokuapp.com/images/katie-bell.png"
   },
   {
     "name": "Adrian Pucey",
@@ -1934,7 +1934,7 @@
     "actor": "Scot Fearn",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/adrien-pucey.png"
+    "image": "https://own-hp-api.herokuapp.com/images/adrien-pucey.png"
   },
   {
     "name": "Miles Bletchley",
@@ -1959,7 +1959,7 @@
     "actor": "David Churchyard",
     "alternate_actors": ["Amy Puglia"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/miles-bletchley.png"
+    "image": "https://own-hp-api.herokuapp.com/images/miles-bletchley.png"
   },
   {
     "name": "Terrence Higgs",
@@ -1984,7 +1984,7 @@
     "actor": "Will Theakston",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/terrence-higgs.png"
+    "image": "https://own-hp-api.herokuapp.com/images/terrence-higgs.png"
   },
   {
     "name": "Gellert Grindelwald",
@@ -2109,7 +2109,7 @@
     "actor": "Ray Fearon",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/firenze.png"
+    "image": "https://own-hp-api.herokuapp.com/images/firenze.png"
   },
   {
     "name": "Elfrick the Eager",
@@ -2309,7 +2309,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/celestina.png"
+    "image": "https://own-hp-api.herokuapp.com/images/celestina.png"
   },
   {
     "name": "Gilderoy Lockhart",
@@ -2334,7 +2334,7 @@
     "actor": "Kenneth Branagh",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/gilderoy.png"
+    "image": "https://own-hp-api.herokuapp.com/images/gilderoy.png"
   },
   {
     "name": "Mundungus Fletcher",
@@ -2484,7 +2484,7 @@
     "actor": "Hugh Mitchell",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/colin-creevey.png"
+    "image": "https://own-hp-api.herokuapp.com/images/colin-creevey.png"
   },
   {
     "name": "Gladys Gudgeon",
@@ -2539,7 +2539,7 @@
   {
     "name": "Patrick Delaney-Podmore",
     "alternate_names": ["Sir Patrick Delaney-Podmore"],
-    "species": "ghost",
+    "species": "Ghost",
     "gender": "Male",
     "house": "",
     "dateOfBirth": "",
@@ -2639,7 +2639,7 @@
   {
     "name": "Moaning Myrtle",
     "alternate_names": ["Myrtle Elizabeth Warren"],
-    "species": "ghost",
+    "species": "Ghost",
     "gender": "Female",
     "house": "Ravenclaw",
     "dateOfBirth": "",
@@ -2659,7 +2659,7 @@
     "actor": "Shirley Henderson",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/moaning-myrtle.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/moaning-myrtle.jpg"
   },
   {
     "name": "Godric Gryffindor",
@@ -2784,7 +2784,7 @@
     "actor": "Sally Mortemore",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/pince.png"
+    "image": "https://own-hp-api.herokuapp.com/images/pince.png"
   },
   {
     "name": "Milicent Bullstroude",
@@ -2809,7 +2809,7 @@
     "actor": "Helen Stuart",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/millicent.png"
+    "image": "https://own-hp-api.herokuapp.com/images/millicent.png"
   },
   {
     "name": "Ernie Macmillan",
@@ -2834,7 +2834,7 @@
     "actor": "Louis Doyle",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/ernie.png"
+    "image": "https://own-hp-api.herokuapp.com/images/ernie.png"
   },
   {
     "name": "Armando Dippet",
@@ -2859,7 +2859,7 @@
     "actor": "Alfred Burke",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/dippet.png"
+    "image": "https://own-hp-api.herokuapp.com/images/dippet.png"
   },
   {
     "name": "Penelope Clearwater",
@@ -2884,7 +2884,7 @@
     "actor": "Gemma Padley",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/penelope.png"
+    "image": "https://own-hp-api.herokuapp.com/images/penelope.png"
   },
   {
     "name": "Cornelius Fudge",
@@ -3109,7 +3109,7 @@
     "actor": "Emma Thompson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/trelawney.png",
+    "image": "https://own-hp-api.herokuapp.com/images/trelawney.png",
     "description": "Professor Sybill Patricia Trelawney was a half-bloodwitch and professor of Divination at Hogwarts School of Witchcraft and Wizardry. She is the great-great-granddaughter of the celebrated Cassandra Trelawney,who was also a Seer."
   },
   {
@@ -3160,7 +3160,7 @@
     "actor": "Timothy Spall",
     "alternate_actors": ["Charles Hughes"],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/peter-pettigrew.png"
+    "image": "https://own-hp-api.herokuapp.com/images/peter-pettigrew.png"
   },
   {
     "name": "Madam Rosmerta",
@@ -3210,7 +3210,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/septima.png"
+    "image": "https://own-hp-api.herokuapp.com/images/septima.png"
   },
   {
     "name": "Cassius Warrington",
@@ -3235,7 +3235,7 @@
     "actor": "Ashley Hull",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/cassius.png"
+    "image": "https://own-hp-api.herokuapp.com/images/cassius.png"
   },
   {
     "name": "Graham Montague",
@@ -3260,7 +3260,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/montague.png"
+    "image": "https://own-hp-api.herokuapp.com/images/montague.png"
   },
   {
     "name": "Peregrine Derrick",
@@ -3310,7 +3310,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/lucian-bole.png"
+    "image": "https://own-hp-api.herokuapp.com/images/lucian-bole.png"
   },
   {
     "name": "Walden Macnair",
@@ -4185,7 +4185,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/dennis-creevey.png"
+    "image": "https://own-hp-api.herokuapp.com/images/dennis-creevey.png"
   },
   {
     "name": "Aurora Sinistra",
@@ -4210,7 +4210,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/aurora.png"
+    "image": "https://own-hp-api.herokuapp.com/images/aurora.png"
   },
   {
     "name": "Owen Cauldwell",
@@ -4235,7 +4235,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/owen.png"
+    "image": "https://own-hp-api.herokuapp.com/images/owen.png"
   },
   {
     "name": "Emma Dobbs",
@@ -4410,7 +4410,7 @@
     "actor": "Samantha Clinch",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/eloise.png"
+    "image": "https://own-hp-api.herokuapp.com/images/eloise.png"
   },
   {
     "name": "Alastor Moody",
@@ -4435,7 +4435,7 @@
     "actor": "Brendan Gleeson",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/alastor.png"
+    "image": "https://own-hp-api.herokuapp.com/images/alastor.png"
   },
   {
     "name": "Madame Maxime",
@@ -4460,7 +4460,7 @@
     "actor": "Frances de la Tour",
     "alternate_actors": ["Ian Whyte"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/madame-maxime.png"
+    "image": "https://own-hp-api.herokuapp.com/images/madame-maxime.png"
   },
   {
     "name": "Igor Karkaroff",
@@ -4535,7 +4535,7 @@
     "actor": "Alex Argenti",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/fawcett.png"
+    "image": "https://own-hp-api.herokuapp.com/images/fawcett.png"
   },
   {
     "name": "Summers",
@@ -4660,7 +4660,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/stebbins.png"
+    "image": "https://own-hp-api.herokuapp.com/images/stebbins.png"
   },
   {
     "name": "Wilhelmina Grubbly-Plank",
@@ -4685,7 +4685,7 @@
     "actor": "Apple Brook",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/wilhelmina.png"
+    "image": "https://own-hp-api.herokuapp.com/images/wilhelmina.png"
   },
   {
     "name": "Bozo",
@@ -4735,7 +4735,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/evan-rosier.png"
+    "image": "https://own-hp-api.herokuapp.com/images/evan-rosier.png"
   },
   {
     "name": "Wilkes",
@@ -4760,7 +4760,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/rupert-wilkes.png"
+    "image": "https://own-hp-api.herokuapp.com/images/rupert-wilkes.png"
   },
   {
     "name": "Avery",
@@ -4785,7 +4785,7 @@
     "actor": "Richard Rosson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/avery.png"
+    "image": "https://own-hp-api.herokuapp.com/images/avery.png"
   },
   {
     "name": "Antonin Dolohov",
@@ -4810,7 +4810,7 @@
     "actor": "Arben Bajraktaraj",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/antonio-dolohov.png"
+    "image": "https://own-hp-api.herokuapp.com/images/antonio-dolohov.png"
   },
   {
     "name": "Travers",
@@ -4935,7 +4935,7 @@
     "actor": "James Payton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/frank-longbottom.png"
+    "image": "https://own-hp-api.herokuapp.com/images/frank-longbottom.png"
   },
   {
     "name": "Alice Longbottom",
@@ -4960,7 +4960,7 @@
     "actor": "Lisa Wood ",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/alice-longbottom.png"
+    "image": "https://own-hp-api.herokuapp.com/images/alice-longbottom.png"
   },
   {
     "name": "Violet",
@@ -5085,7 +5085,7 @@
     "actor": "Natalia Tena",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/dora.png"
+    "image": "https://own-hp-api.herokuapp.com/images/dora.png"
   },
   {
     "name": "Elphias Doge",
@@ -5260,7 +5260,7 @@
     "actor": "Tom Moorcroft",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/regulus-black.png"
+    "image": "https://own-hp-api.herokuapp.com/images/regulus-black.png"
   },
   {
     "name": "Phineas Nigelus Black",
@@ -5285,7 +5285,7 @@
     "actor": "John Atterbury",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/nigellus.png"
+    "image": "https://own-hp-api.herokuapp.com/images/nigellus.png"
   },
   {
     "name": "Araminta Meliflua Black",
@@ -5660,7 +5660,7 @@
     "actor": "Jim McManus",
     "alternate_actors": ["Ciarán Hinds"],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/aberforth.png"
+    "image": "https://own-hp-api.herokuapp.com/images/aberforth.png"
   },
   {
     "name": "Dorcas Meadowes",
@@ -5835,7 +5835,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/rose-zeller.png"
+    "image": "https://own-hp-api.herokuapp.com/images/rose-zeller.png"
   },
   {
     "name": "Kenneth Towler",
@@ -5860,7 +5860,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/kenneth.png"
+    "image": "https://own-hp-api.herokuapp.com/images/kenneth.png"
   },
   {
     "name": "Vicky Frobisher",
@@ -5910,7 +5910,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/geoffrey.png"
+    "image": "https://own-hp-api.herokuapp.com/images/geoffrey.png"
   },
   {
     "name": "Cassandra Trelawney",
@@ -5960,7 +5960,7 @@
     "actor": "Ryan Nelson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/michael.png"
+    "image": "https://own-hp-api.herokuapp.com/images/michael.png"
   },
   {
     "name": "Zacharias Smith",
@@ -5985,7 +5985,7 @@
     "actor": "Nick Shirm",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/zach.png"
+    "image": "https://own-hp-api.herokuapp.com/images/zach.png"
   },
   {
     "name": "Barnabas the Barmy",
@@ -6135,7 +6135,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/sloper.png"
+    "image": "https://own-hp-api.herokuapp.com/images/sloper.png"
   },
   {
     "name": "Everard",
@@ -6160,7 +6160,7 @@
     "actor": "Sam Beazley",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/everard.png"
+    "image": "https://own-hp-api.herokuapp.com/images/everard.png"
   },
   {
     "name": "Dilys Derwent",
@@ -6385,7 +6385,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/summerby.png"
+    "image": "https://own-hp-api.herokuapp.com/images/summerby.png"
   },
   {
     "name": "Marietta Edgecombe",
@@ -6510,7 +6510,7 @@
     "actor": "Henry Lloyd-Hughes",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/roger.png"
+    "image": "https://own-hp-api.herokuapp.com/images/roger.png"
   },
   {
     "name": "Grawp",
@@ -6585,7 +6585,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/eddie-carmichael.png"
+    "image": "https://own-hp-api.herokuapp.com/images/eddie-carmichael.png"
   },
   {
     "name": "Daphne Greengrass",
@@ -6610,7 +6610,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/daphne.png"
+    "image": "https://own-hp-api.herokuapp.com/images/daphne.png"
   },
   {
     "name": "Tofty",
@@ -7035,7 +7035,7 @@
     "actor": "Anna Shaffer",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/romilda.png"
+    "image": "https://own-hp-api.herokuapp.com/images/romilda.png"
   },
   {
     "name": "Cormac McLaggen",
@@ -7060,7 +7060,7 @@
     "actor": "Freddie Stroma",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/cormac.png"
+    "image": "https://own-hp-api.herokuapp.com/images/cormac.png"
   },
   {
     "name": "Marcus Belby",
@@ -7085,7 +7085,7 @@
     "actor": "Robert Knox",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/marcus-belby.png"
+    "image": "https://own-hp-api.herokuapp.com/images/marcus-belby.png"
   },
   {
     "name": "Damocles Belby",
@@ -7385,7 +7385,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/tom-riddle.png"
+    "image": "https://own-hp-api.herokuapp.com/images/tom-riddle.png"
   },
   {
     "name": "Demelza Robins",
@@ -7410,7 +7410,7 @@
     "actor": "Katy Huxley-Golden",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/demelza.png"
+    "image": "https://own-hp-api.herokuapp.com/images/demelza.png"
   },
   {
     "name": "Jimmy Peakes",
@@ -7460,7 +7460,7 @@
     "actor": "Ashley Virgil",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/ritchie.png"
+    "image": "https://own-hp-api.herokuapp.com/images/ritchie.png"
   },
   {
     "name": "Leanne",
@@ -7485,7 +7485,7 @@
     "actor": "Isabella Laughland",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/leanne.png"
+    "image": "https://own-hp-api.herokuapp.com/images/leanne.png"
   },
   {
     "name": "Caractacus Burke",
@@ -7660,7 +7660,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/vaisey.png"
+    "image": "https://own-hp-api.herokuapp.com/images/vaisey.png"
   },
   {
     "name": "Harper",
@@ -7860,7 +7860,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/cadwallader.png"
+    "image": "https://own-hp-api.herokuapp.com/images/cadwallader.png"
   },
   {
     "name": "Galatea Merrythought",
@@ -7885,7 +7885,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/Merrythought.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/Merrythought.jpg"
   },
   {
     "name": "Hepzibah Smith",
@@ -8035,7 +8035,7 @@
     "actor": "Ralph Ineson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/amycus.png"
+    "image": "https://own-hp-api.herokuapp.com/images/amycus.png"
   },
   {
     "name": "Alecto Carrow",
@@ -8060,7 +8060,7 @@
     "actor": "Suzie Toase",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/alecto.png"
+    "image": "https://own-hp-api.herokuapp.com/images/alecto.png"
   },
   {
     "name": "Gibbon",
@@ -8160,7 +8160,7 @@
     "actor": "Carolyn Pickles",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://own-hp-api.herokuapp.com/images/charity.png"
+    "image": "https://own-hp-api.herokuapp.com/images/charity.png"
   },
   {
     "name": "Percival Dumbledore",
@@ -8385,7 +8385,7 @@
     "actor": "Rhys Ifans",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/xenophilius.png"
+    "image": "https://own-hp-api.herokuapp.com/images/xenophilius.png"
   },
   {
     "name": "Muriel",
@@ -9140,7 +9140,7 @@
   {
     "name": "The Grey Lady",
     "alternate_names": ["Helena Ravenclaw"],
-    "species": "ghost",
+    "species": "Ghost",
     "gender": "Female",
     "house": "",
     "dateOfBirth": "",
@@ -9210,7 +9210,7 @@
     "actor": "Daphne de Beistegui",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/lily-luna.png"
+    "image": "https://own-hp-api.herokuapp.com/images/lily-luna.png"
   },
   {
     "name": "James Potter",
@@ -9235,7 +9235,7 @@
     "actor": "Will Dunn",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/james-sirius-potter.png"
+    "image": "https://own-hp-api.herokuapp.com/images/james-sirius-potter.png"
   },
   {
     "name": "Albus Severus Potter",
@@ -9260,7 +9260,7 @@
     "actor": "Arthur Bowen",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/albus-potter.png"
+    "image": "https://own-hp-api.herokuapp.com/images/albus-potter.png"
   },
   {
     "name": "Rose Weasley",
@@ -9285,7 +9285,7 @@
     "actor": "Helena Barlow",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/rose-weasley.png"
+    "image": "https://own-hp-api.herokuapp.com/images/rose-weasley.png"
   },
   {
     "name": "Hugo Weasley",
@@ -9310,7 +9310,7 @@
     "actor": "Ryan Turner",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/hugo-weasley.png"
+    "image": "https://own-hp-api.herokuapp.com/images/hugo-weasley.png"
   },
   {
     "name": "Scorpius Malfoy",
@@ -9335,7 +9335,7 @@
     "actor": "Bertie Gilbert",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://own-hp-api.herokuapp.com/images/scorpius.png"
+    "image": "https://own-hp-api.herokuapp.com/images/scorpius.png"
   },
   {
     "name": "Victoire Weasley",
