@@ -1470,7 +1470,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Theodore Nott was a pure-blood wizard who was a Slytherin student in the same year as Harry Potter at Hogwarts School of Witchcraft and Wizardry. He came from a family of Death Eaters and supporters of Pure-blood supremacy."
   },
   {
     "name": "Pansy Parkinson",
@@ -1726,7 +1727,8 @@
     "actor": "Miriam Margolyes",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/pomona.png"
+    "image": "https://own-hp-api.herokuapp.com/images/pomona.png",
+    "description": "Professor Pomona Sprout was a witch who worked as Head of Hufflepuff House and Head of the Herbology department at Hogwarts School of Witchcraft and Wizardry. She attended the school in her youth, where she was Sorted into Hufflepuff and excelled at Herbology. Some time after her graduation, Sprout returned to Hogwarts to teach."
   },
   {
     "name": "Cuthbert Binns",
@@ -1751,7 +1753,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/binns.png"
+    "image": "https://own-hp-api.herokuapp.com/images/binns.png",
+    "description": "Professor Cuthbert Binns was a wizard and History of Magic professor at Hogwarts School of Witchcraft and Wizardry. He owned an office in the main castle and Classroom 4F on the first floor to teach in. He taught until a very old age, when he fell asleep in the staff room and died in slumber.Afterwards, he became a ghost who continued to teach, droning on about various Goblin Rebellions and giant wars to bored, sleeping students."
   },
   {
     "name": "Filius Flitwick",
@@ -2802,7 +2805,8 @@
     "actor": "Sally Mortemore",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/pince.png"
+    "image": "https://own-hp-api.herokuapp.com/images/pince.png",
+    "description": "Madam Irma Pince was a witch and librarian at the library of Hogwarts School of Witchcraft and Wizardry. She was highly possessive and protective of the school's books and was deemed highly unpleasant by most of the student body."
   },
   {
     "name": "Milicent Bullstroude",
@@ -3303,7 +3307,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Peregrine Derrick was a British wizard who began attending Hogwarts in 1988. Sorted into Slytherin, Derrick played as a Beater on the Slytherin Quidditch team, along with Lucian Bole, in the 1993–1994 school year. Although there were no Quidditch matches at Hogwarts during the 1994–1995 school year because of the Triwizard Tournament, he held his position on the Slytherin team, at least nominally, until his graduation at the end of term. He and Bole were replaced by Vincent Crabbe and Gregory Goyle at the start of the 1995–1996 school year. Angelina Johnson, the new captain of the Gryffindor Quidditch team, joked to her teammates that she was always shocked that Derrick and Bole were able to make it on to the Quidditch pitch without having to follow signs."
   },
   {
     "name": "Lucian Bole",
@@ -4303,7 +4308,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Laura Madley was a witch that started attending Hogwarts School of Witchcraft and Wizardry in 1994, and was sorted into Hufflepuff. Laura would share a dormitory with Eleanor Branstone who was also sorted into Hufflepuff that year."
   },
   {
     "name": "Natalie McDonald",
@@ -4328,7 +4334,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Natalie McDonald was a witch that attended Hogwarts School of Witchcraft and Wizardry. She was Sorted into Gryffindor house in 1994, which Nearly-Headless Nick applauded."
   },
   {
     "name": "Graham Pritchard",
@@ -4403,7 +4410,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Kevin Whitby was a wizard who started attending Hogwarts School of Witchcraft and Wizardry in 1994, and was sorted into the Hufflepuff house. He was the last new student to be sorted that school year."
   },
   {
     "name": "Eloise Midgen",
@@ -5329,7 +5337,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "",
+    "description": "Araminta Meliflua Black was Walburga Black's cousin, and Sirius and Regulus Black's first or second cousin once removed. She was noted for her hatred of Muggles. She once tried to get the Ministry of Magic to pass a law that would make Muggle-hunting legal. The bill was most likely turned down."
   },
   {
     "name": "Elladora Black",
@@ -5379,7 +5388,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Andromeda 'Dromeda' Tonks (née Black), was an English pure-blood witch and the middle daughter of Cygnus and Druella Black (née Rosier), as well as the sister of Bellatrix and Narcissa. She attended Hogwarts School of Witchcraft and Wizardry in the 1960s and was sorted into Slytherin House."
   },
   {
     "name": "Ted Tonks",
@@ -5429,7 +5439,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Rodolphus Lestrange was a pure-blood wizard and a member of the pure-blood Lestrange family. He, along with his brother Rabastan, joined the Death Eaters and fought in the First Wizarding War. The Lestranges were considered to be among Lord Voldemort's most loyal and trusted servants and were the only ones along with Barty Crouch Jnr who searched for him after his first downfall."
   },
   {
     "name": "Rabastan Lestrange",
@@ -5454,7 +5465,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Rabastan Lestrange was a pure-blood wizard, brother of Rodolphus, and brother-in-law of Bellatrix Lestrange. He was a Death Eater who fought in the First Wizarding War. The Lestranges were among Lord Voldemort's most loyal and trusted servants, the only ones who searched for him after his first downfall."
   },
   {
     "name": "Eric Munch",
@@ -5829,7 +5841,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "",
+    "description": "Euan Abercrombie was a wizard and Gryffindor student at Hogwarts School of Witchcraft and Wizardry in the 1990s. He began attending Hogwarts School of Witchcraft and Wizardry in September 1995, when Harry was in his fifth year. As he was first in his year alphabetically, he was the first to be sorted, and was sorted into Gryffindor House. He was a small boy with prominent ears, who often looked terrified. He appeared to believe in the Daily Prophet's smear campaign against Harry Potter, as he looked at him fearfully when Harry tried to smile at him."
   },
   {
     "name": "Rose Zeller",
@@ -7429,7 +7442,8 @@
     "actor": "Katy Huxley-Golden",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/demelza.png"
+    "image": "https://own-hp-api.herokuapp.com/images/demelza.png",
+    "description": "Demelza Robins was a witch and Gryffindor student at Hogwarts School of Witchcraft and Wizardry. She was a Chaser for the Gryffindor Quidditch team, and was noted to be particularly skilled at dodging Bludgers."
   },
   {
     "name": "Jimmy Peakes",
@@ -7479,7 +7493,8 @@
     "actor": "Ashley Virgil",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/ritchie.png"
+    "image": "https://own-hp-api.herokuapp.com/images/ritchie.png",
+    "description": "Ritchie Coote was a student at Hogwarts School of Witchcraft and Wizardry during the 1990s. He was chosen by Harry Potter to be one of the new Beaters for the 1996-1997 Gryffindor Quidditch team. Together with Jimmy Peakes, he replaced Jack Sloper and Andrew Kirke."
   },
   {
     "name": "Leanne",
@@ -7904,7 +7919,8 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://own-hp-api.herokuapp.com/images/Merrythought.jpg"
+    "image": "https://own-hp-api.herokuapp.com/images/Merrythought.jpg",
+    "description": "Professor Galatea Merrythought was a witch and Professor at Hogwarts School of Witchcraft and Wizardry from around 1895 until her retirement in 1945. From some point between the 1920s and the 1940s, she taught Defence Against the Dark Arts. Before her retirement, she worked alongside Albus Dumbledore and Horace Slughorn, her former students; after her retirement, Tom Riddle, another one of her pupils, was refused the chance to take her place, and so he vengefully jinxed the post so no professor could hold the occupation for longer than a year."
   },
   {
     "name": "Hepzibah Smith",
@@ -9104,7 +9120,8 @@
     "actor": "Luke Newberry",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://own-hp-api.herokuapp.com/images/ted-lupin.png",
+    "description": "Edward Remus 'Teddy' Lupin, occasionally known as Ted, was a half-blood wizard, the only child and son of the late Remus Lupin and Nymphadora Tonks. He was, like his mother, a Metamorphmagus and did not inherit his father's lycanthropy."
   },
   {
     "name": "Marius",
@@ -9229,7 +9246,8 @@
     "actor": "Daphne de Beistegui",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/lily-luna.png"
+    "image": "https://own-hp-api.herokuapp.com/images/lily-luna.png",
+    "description": "Lily Luna Potter was an English half-blood witch, the youngest child and only daughter of Harry and Ginevra Potter (née Weasley). Lily had two older brothers, James Sirius and Albus Severus Potter. She was named in honour of her late paternal grandmother, Lily Potter, and her middle name came from her parents' good friend Luna Lovegood."
   },
   {
     "name": "James Potter",
@@ -9254,7 +9272,8 @@
     "actor": "Will Dunn",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/james-sirius-potter.png"
+    "image": "https://own-hp-api.herokuapp.com/images/james-sirius-potter.png",
+    "description": "James Sirius Potter was an English half-blood wizard, the eldest child and first son of Harry and Ginevra Potter (née Weasley). James was two years older than his brother Albus Severus and four years older than his sister Lily Luna. His godparents, as well as his uncle and aunt were Ron Weasley and Hermione Granger."
   },
   {
     "name": "Albus Severus Potter",
@@ -9305,7 +9324,8 @@
     "actor": "Helena Barlow",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://own-hp-api.herokuapp.com/images/rose-weasley.png"
+    "image": "https://own-hp-api.herokuapp.com/images/rose-weasley.png",
+    "description": "Rose Granger-Weasley, also known as Rosie, was an English half-blood witch and the daughter of Ronald Weasley and Hermione Granger. She had a younger brother named Hugo, who was born about two years after her. She began attending Hogwarts School of Witchcraft and Wizardry in 2017 — the same time and year as Albus Potter and Scorpius Malfoy — and she was sorted into Gryffindor house."
   },
   {
     "name": "Hugo Weasley",
